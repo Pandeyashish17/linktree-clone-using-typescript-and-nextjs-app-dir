@@ -1,0 +1,86 @@
+{
+  "name": "Robin Chwannnnn",
+  "avatar": "/robinchan.webp",
+  "links": [
+    {
+      "href": "https://example.com/blog",
+      "title": "Blog",
+      "image": "https://source.unsplash.com/random/200x200/?photography"
+    },
+    {
+      "href": "https://example.com/projects",
+      "title": "Projects",
+      "image": "https://source.unsplash.com/random/200x200/?writing"
+    },
+    {
+      "href": "https://example.com/blog",
+      "title": "Blog",
+      "image": "https://source.unsplash.com/random/200x200/?writing"
+    },
+    {
+      "href": "https://example.com/projects",
+      "title": "Projects",
+      "image": "https://source.unsplash.com/random/200x200/?technology"
+    },
+    {
+      "href": "https://example.com/portfolio",
+      "title": "Portfolio",
+      "image": "https://source.unsplash.com/random/200x200/?photography"
+    },
+    {
+      "href": "https://example.com/resume",
+      "title": "Resume",
+      "image": "https://source.unsplash.com/random/200x200/?document"
+    },
+    {
+      "href": "https://example.com/about",
+      "title": "About",
+      "image": "https://source.unsplash.com/random/200x200/?bio"
+    },
+    {
+      "href": "https://example.com/contact",
+      "title": "Contact",
+      "image": "https://source.unsplash.com/random/200x200/?communication"
+    },
+    {
+      "href": "https://example.com/education",
+      "title": "Education",
+      "image": "https://source.unsplash.com/random/200x200/?learning"
+    },
+    {
+      "href": "https://example.com/experience",
+      "title": "Experience",
+      "image": "https://source.unsplash.com/random/200x200/?work"
+    },
+    {
+      "href": "https://example.com/skills",
+      "title": "Skills",
+      "image": "https://source.unsplash.com/random/200x200/?talent"
+    },
+    {
+      "href": "https://example.com/achievements",
+      "title": "Achievements",
+      "image": "https://source.unsplash.com/random/200x200/?award"
+    },
+    {
+      "href": "https://example.com/testimonials",
+      "title": "Testimonials",
+      "image": "https://source.unsplash.com/random/200x200/?feedback"
+    },
+    {
+      "href": "https://example.com/services",
+      "title": "Services",
+      "image": "https://source.unsplash.com/random/200x200/?offer"
+    }
+  ],
+  "socials": [
+    {
+      "href": "https://github.com/some_random_dude",
+      "title": "Github"
+    },
+    {
+      "href": "https://linkedin.com/in/some_random_dude",
+      "title": "LinkedIn"
+    }
+  ]
+}
